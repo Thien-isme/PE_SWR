@@ -1,0 +1,45 @@
+a. Performance
+The FUE360 system must support at least 500 concurrent users accessing the exam at the same time without performance degradation.
+The FUE360 system must respond to user actions (such as clicking buttons or submitting forms) within 1 second for at least 90% of interactions under normal operating conditions.
+
+
+b. Reliability
+The FUE360 system should have an uptime of at least 99.9% per month, excluding scheduled maintenance.
+
+The FUE360 system must be able to recover automatically from a crash within 1 minute without data loss.
+
+The FUE360 system must have a user interface that is friendly, easy to understand, consistent, and supports multiple languages if needed.
+
+c. Security
+The FUE360 system must ensure that all user passwords are stored using SHA-256 hashing algorithm with salting.
+
+The FUE360 system must auto-logout users after 10 minutes of inactivity to prevent unauthorized access.
+
+
+d. Usability
+All interfaces in the FUE360 system must complete page transitions within 2 seconds for at least 95% of user requests under normal network conditions.
+New users must be able to learn how to use the system to perform basic tasks (such as logging in, searching for information, and filling out forms) within 15 minutes, 
+without needing guidance from others or detailed user manuals.
+
+
+a. Hiệu suất
+Hệ thống FUE360 phải hỗ trợ ít nhất 500 người dùng đồng thời truy cập bài thi cùng lúc mà không làm giảm hiệu suất.
+Hệ thống FUE360 phải phản hồi các hành động của người dùng (chẳng hạn như nhấp vào nút hoặc gửi biểu mẫu) trong vòng 1 giây đối với ít nhất 90% tương tác trong điều kiện hoạt động bình thường.
+
+b. Độ tin cậy
+Hệ thống FUE360 phải có thời gian hoạt động ít nhất 99,9% mỗi tháng, không bao gồm bảo trì định kỳ.
+
+Hệ thống FUE360 phải có khả năng tự động phục hồi sau sự cố trong vòng 1 phút mà không bị mất dữ liệu.
+
+Hệ thống FUE360 phải có giao diện người dùng thân thiện, dễ hiểu, nhất quán và hỗ trợ nhiều ngôn ngữ nếu cần.
+
+c. Bảo mật
+Hệ thống FUE360 phải đảm bảo tất cả mật khẩu người dùng được lưu trữ bằng thuật toán băm SHA-256 có thêm ký tự ngẫu nhiên.
+
+Hệ thống FUE360 phải tự động đăng xuất người dùng sau 10 phút không hoạt động để ngăn chặn truy cập trái phép.
+
+d. Khả năng sử dụng
+Tất cả các giao diện trong hệ thống FUE360 phải hoàn tất việc chuyển trang trong vòng 2 giây cho ít nhất 95% yêu cầu của người dùng trong điều kiện mạng bình thường.
+
+Người dùng mới phải có khả năng học cách sử dụng hệ thống để thực hiện các tác vụ cơ bản (như đăng nhập, tìm kiếm thông tin và điền vào biểu mẫu) trong vòng 15 phút,
+mà không cần hướng dẫn từ người khác hoặc hướng dẫn sử dụng chi tiết.
